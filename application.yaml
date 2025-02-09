@@ -1,2 +1,1 @@
-
-message:Student Service, which is also having Config Client is running, this message is coming from Config Server!!! 
+message: "Student Service, which is also having Config Client is running, this message is coming from Config Server!!!"
